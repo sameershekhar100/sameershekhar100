@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here's my insta id(sameershekhar100)
 - ⚡ Fun fact: I love music (especially guitar ;) and really like to interact new people and places)
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=sameershekhar100)
