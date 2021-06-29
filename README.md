@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning and AWS
 - 💬 Ask me about anything related to music ,games or programming...
 - 📫 How to reach me: here's my insta id(sameershekhar100)
-- ⚡ Fun fact: I love music (especially guitar ;) and really like to interact new people and places)
+- ⚡ Fun fact: I love music (especially guitar ;) and really like to interact new people and travelling
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=sameershekhar100)
  -->
